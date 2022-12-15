@@ -176,7 +176,7 @@ Developed with ❤️ in India 🇮🇳
 
 - 📫 How to reach me **willthwang@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQYfN2amtKrfWw800RVriRw2Zp4z7vXfL76cCeAyVAQ9eru1v26_XKSwK8mJbPQA88TOvoOGVU36dI1/pub](https://docs.google.com/document/d/e/2PACX-1vQYfN2amtKrfWw800RVriRw2Zp4z7vXfL76cCeAyVAQ9eru1v26_XKSwK8mJbPQA88TOvoOGVU36dI1/pub)
+- 📄 Know about my experiences <a href=https://docs.google.com/document/d/e/2PACX-1vQYfN2amtKrfWw800RVriRw2Zp4z7vXfL76cCeAyVAQ9eru1v26_XKSwK8mJbPQA88TOvoOGVU36dI1/pub](https://docs.google.com/document/d/e/2PACX-1vQYfN2amtKrfWw800RVriRw2Zp4z7vXfL76cCeAyVAQ9eru1v26_XKSwK8mJbPQA88TOvoOGVU36dI1/pub)>"resume"</a>
 
 - ⚡ Fun fact **I can pick things up and put them down.**
 
