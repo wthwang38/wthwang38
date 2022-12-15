@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
   </a>
@@ -166,4 +166,5 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 <hr>
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
-</p>
+</p> -->
+hi
