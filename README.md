@@ -170,7 +170,7 @@ Developed with ❤️ in India 🇮🇳
 <h1 align="center">Hi 👋, I'm William Hwang</h1>
 <h3 align="center">A passionate Full Stack Developer from NYC</h3>
 
-- 🌱 I’m currently learning **Swift and python**
+- 🌱 I’m currently learning **GCP, Docker, and python**
 
 - 💬 Ask me about **React, JavaScript, Ruby, and Swift!**
 
